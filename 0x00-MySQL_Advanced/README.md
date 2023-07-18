@@ -1,6 +1,6 @@
 # MySQL Advanced
 
-In this project, I work on learning advanced MySQL features.
+In this project, I work on advanced MySQL features.
 
 ## Learning Objectives
 
